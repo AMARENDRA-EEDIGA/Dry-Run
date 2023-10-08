@@ -36,7 +36,7 @@
     border-bottom-left-radius: 6px;
     box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
 }
-/* .dropdown-item {
+.dropdown-item {
     display: block;
     width: 100%;
     padding: 0.25rem 1.5rem;
@@ -68,7 +68,7 @@
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
-} */
+} 
 .menu{
     width:0px;
     height: 50px;
