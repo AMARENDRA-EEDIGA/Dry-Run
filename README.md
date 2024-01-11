@@ -1,2 +1,2 @@
-# FrontendTools
-Hee guys today i am going to start 1st session working with git. I will be writing my first code here....
+
+Hee guys today i am going to start 1st session working with gitHub. 
